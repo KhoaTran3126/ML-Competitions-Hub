@@ -1,4 +1,4 @@
-# WiDS Global Datathon 2026 Competition
+# <a href="https://www.kaggle.com/competitions/WiDSWorldWide_GlobalDathon26">WiDS Global Datathon 2026 Competition<\a>
 ## About the Competition
 When a wildfire ignites, emergency managers face an impossible question with incomplete information. Which fires will reach populated areas? How quickly? And which communities should prepare first?
 
