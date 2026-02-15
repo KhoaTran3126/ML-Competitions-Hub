@@ -15,8 +15,6 @@ library(car)
 library(ggfortify) # use autoplot(lm_model, which = 1:6, ncol = 2, label.size = 3)
 library(lme4) #  Use boot_summary(lmer_model, type = "perc") from library(boot.pval) for p-values
 library(mgcv) # use gam, gam.check(), plot(), plot_predictions()
-library(bayesplot) # use bayes_R2(brm_model), mcmc_acf(as.array(brm_model), pars = vector_slope_intercept_names)
-library(brms) # use brm, prior_summary(), posterior_summary(), pp_check(), plot(), plot_predictions(), conditional_effects(), print(loo(brm_model))
 
 theme_custom <- theme_classic() +
                 theme(## Axis labels
